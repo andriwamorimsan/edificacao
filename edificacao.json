@@ -56,16 +56,19 @@
     ],
     "blocos_relacionados": [
       {
+        id":"1",
         "id_bloco": "BLOCO-A",
         "descricao": "Bloco A – área administrativa",
         "cnpj_bloco_secuncadario" : "12.345.678/0001-91"
       },
       {
+        "id":"2",
         "id_bloco": "BLOCO-B",
         "descricao": "Bloco B – área produtiva",
         "cnpj_bloco_secuncadario" : "12.345.678/0001-91"
       },
       {
+        id":"3",
         "id_bloco": "BLOCO-C",
         "descricao": "Bloco C – área produtiva",
         "cnpj_bloco_secuncadario" : "12.345.678/0001-92"
