@@ -3,68 +3,75 @@
   "message": "Lista de vistorias obtida com sucesso.",
   "data": [
      {
-  "re": "RE-12345",
-  "nome_edificacao": "Edificação Exemplar",
-  "cnpj": "12.345.678/0001-90",
-  "endereco": "Rua das Flores, 100, Bairro Jardim, Cidade Exemplo, Estado",
-  "status": "em_andamento",
-  "data_prazo": "2025-07-31",
-  "protocolo": "PROTO-98765",
-  "data_de_cadastro": "2025-01-15",
-  "nome_fantasia": "Construtora Modelo",
-  "coordenadas": {
-    "lat": -3.1019,
-    "lng": -60.0250
-  },
-  "responsavel": {
-    "cpf": "123.456.789-00",
-    "nome": "José da Silva",
-    "telefone": "(92) 91234-5678",
-    "comprovante_de_identidade": "https://exemplo.com/comprovantes/jose_silva.jpg"
-  },
-  "dados_responsaveis_tecnicos": [
-    {
-      "cpf": "987.654.321-00",
-      "nome": "Ana Souza",
-      "registro_profissional": "CREA-123456",
-      "especialidade": "Engenharia Civil"
+    "re": "RE-12345",
+    "nome_edificacao": "Edificação Exemplar",
+    "cnpj": "12.345.678/0001-90",
+    "endereco": "Rua das Flores, 100, Bairro Jardim, Cidade Exemplo, Estado",
+    "status": "em_andamento",
+    "data_prazo": "2025-07-31",
+    "protocolo": "PROTO-98765",
+    "data_de_cadastro": "2025-01-15",
+    "nome_fantasia": "Construtora Modelo",
+    "coordenadas": {
+      "lat": -3.1019,
+      "lng": -60.0250
     },
-    {
-      "cpf": "111.222.333-44",
-      "nome": "Carlos Pereira",
-      "registro_profissional": "CREA-654321",
-      "especialidade": "Arquitetura"
-    }
-  ],
-  "documento_sci_projetos": [
-    {
-      "nome_arquivo": "projeto_estrutural.pdf",
-      "url": "https://exemplo.com/docs/projeto_estrutural.pdf"
-    }
-  ],
-  "documento_sci_requerimentos": [
-    {
-      "nome_arquivo": "requerimento_alvara.pdf",
-      "url": "https://exemplo.com/docs/requerimento_alvara.pdf"
-    }
-  ],
-  "documento_sci_diversos": [
-    {
-      "nome_arquivo": "foto_localizacao.jpg",
-      "url": "https://exemplo.com/docs/foto_localizacao.jpg"
-    }
-  ],
-  "blocos_relacionados": [
-    {
-      "id_bloco": "BLOCO-A",
-      "descricao": "Bloco A – área administrativa"
+    "responsavel": {
+      "cpf": "123.456.789-00",
+      "nome": "José da Silva",
+      "telefone": "(92) 91234-5678",
+      "comprovante_de_identidade": "https://exemplo.com/comprovantes/jose_silva.jpg"
     },
-    {
-      "id_bloco": "BLOCO-B",
-      "descricao": "Bloco B – área produtiva"
-    }
-  ]
-}
+    "dados_responsaveis_tecnicos": [
+      {
+        "cpf": "987.654.321-00",
+        "nome": "Ana Souza",
+        "registro_profissional": "CREA-123456",
+        "especialidade": "Engenharia Civil"
+      },
+      {
+        "cpf": "111.222.333-44",
+        "nome": "Carlos Pereira",
+        "registro_profissional": "CREA-654321",
+        "especialidade": "Arquitetura"
+      }
+    ],
+    "documento_sci_projetos": [
+      {
+        "nome_arquivo": "projeto_estrutural.pdf",
+        "url": "https://exemplo.com/docs/projeto_estrutural.pdf"
+      }
+    ],
+    "documento_sci_requerimentos": [
+      {
+        "nome_arquivo": "requerimento_alvara.pdf",
+        "url": "https://exemplo.com/docs/requerimento_alvara.pdf"
+      }
+    ],
+    "documento_sci_diversos": [
+      {
+        "nome_arquivo": "foto_localizacao.jpg",
+        "url": "https://exemplo.com/docs/foto_localizacao.jpg"
+      }
+    ],
+    "blocos_relacionados": [
+      {
+        "id_bloco": "BLOCO-A",
+        "descricao": "Bloco A – área administrativa",
+        "cnpj_bloco_secuncadario" : "12.345.678/0001-91"
+      },
+      {
+        "id_bloco": "BLOCO-B",
+        "descricao": "Bloco B – área produtiva",
+        "cnpj_bloco_secuncadario" : "12.345.678/0001-91"
+      },
+      {
+        "id_bloco": "BLOCO-C",
+        "descricao": "Bloco C – área produtiva",
+        "cnpj_bloco_secuncadario" : "12.345.678/0001-92"
+      }
+    ]
+  }
   ]
 }
 
