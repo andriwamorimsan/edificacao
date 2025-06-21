@@ -2,70 +2,172 @@
   "success": true,
   "message": "Lista de vistorias obtida com sucesso.",
   "data": [
-     {
-  "re": "RE-12345",
-  "nome_edificacao": "Edificação Exemplar",
-  "cnpj": "12.345.678/0001-90",
-  "endereco": "Rua das Flores, 100, Bairro Jardim, Cidade Exemplo, Estado",
-  "status": "em_andamento",
-  "data_prazo": "2025-07-31",
-  "protocolo": "PROTO-98765",
-  "data_de_cadastro": "2025-01-15",
-  "nome_fantasia": "Construtora Modelo",
-  "coordenadas": {
-    "lat": -3.1019,
-    "lng": -60.0250
-  },
-  "responsavel": {
-    "cpf": "123.456.789-00",
-    "nome": "José da Silva",
-    "telefone": "(92) 91234-5678",
-    "comprovante_de_identidade": "https://exemplo.com/comprovantes/jose_silva.jpg"
-  },
-  "dados_responsaveis_tecnicos": [
     {
-      "cpf": "987.654.321-00",
-      "nome": "Ana Souza",
-      "registro_profissional": "CREA-123456",
-      "especialidade": "Engenharia Civil"
+      "re": "RE-12345",
+      "nome_edificacao": "Edificação Exemplar",
+      "cnpj": "12.345.678/0001-90",
+      "endereco": "Rua das Flores, 100, Bairro Jardim, Cidade Exemplo, Estado",
+      "status": "em_andamento",
+      "data_prazo": "2025-07-31",
+      "protocolo": "PROTO-98765",
+      "data_de_cadastro": "2025-01-15",
+      "nome_fantasia": "Construtora Modelo",
+      "coordenadas": { "lat": -3.1019, "lng": -60.0250 },
+      "responsavel": {
+        "cpf": "123.456.789-00",
+        "nome": "José da Silva",
+        "telefone": "(92) 91234-5678",
+        "comprovante_de_identidade": "https://exemplo.com/comprovantes/jose_silva.jpg"
+      },
+      "dados_responsaveis_tecnicos": [
+        {
+          "cpf": "987.654.321-00",
+          "nome": "Ana Souza",
+          "registro_profissional": "CREA-123456",
+          "especialidade": "Engenharia Civil"
+        },
+        {
+          "cpf": "111.222.333-44",
+          "nome": "Carlos Pereira",
+          "registro_profissional": "CREA-654321",
+          "especialidade": "Arquitetura"
+        }
+      ],
+      "documento_sci_projetos": [
+        {
+          "nome_arquivo": "projeto_estrutural.pdf",
+          "url": "https://exemplo.com/docs/projeto_estrutural.pdf"
+        }
+      ],
+      "documento_sci_requerimentos": [
+        {
+          "nome_arquivo": "requerimento_alvara.pdf",
+          "url": "https://exemplo.com/docs/requerimento_alvara.pdf"
+        }
+      ],
+      "documento_sci_diversos": [
+        {
+          "nome_arquivo": "foto_localizacao.jpg",
+          "url": "https://exemplo.com/docs/foto_localizacao.jpg"
+        }
+      ],
+      "blocos_relacionados": [
+        {
+          "id_bloco": "BLOCO-A",
+          "descricao": "Bloco A – área administrativa",
+          "cnpj_bloco_secuncadario": "12.345.678/0001-91"
+        },
+        {
+          "id_bloco": "BLOCO-B",
+          "descricao": "Bloco B – área produtiva",
+          "cnpj_bloco_secuncadario": "12.345.678/0001-91"
+        },
+        {
+          "id_bloco": "BLOCO-C",
+          "descricao": "Bloco C – área produtiva",
+          "cnpj_bloco_secuncadario": "12.345.678/0001-92"
+        }
+      ]
     },
     {
-      "cpf": "111.222.333-44",
-      "nome": "Carlos Pereira",
-      "registro_profissional": "CREA-654321",
-      "especialidade": "Arquitetura"
-    }
-  ],
-  "documento_sci_projetos": [
-    {
-      "nome_arquivo": "projeto_estrutural.pdf",
-      "url": "https://exemplo.com/docs/projeto_estrutural.pdf"
-    }
-  ],
-  "documento_sci_requerimentos": [
-    {
-      "nome_arquivo": "requerimento_alvara.pdf",
-      "url": "https://exemplo.com/docs/requerimento_alvara.pdf"
-    }+
-  ],
-  "documento_sci_diversos": [
-    {
-      "nome_arquivo": "foto_localizacao.jpg",
-      "url": "https://exemplo.com/docs/foto_localizacao.jpg"
-    }
-  ],
-  "blocos_relacionados": [
-    {
-      "id_bloco": "BLOCO-A",
-      "descricao": "Bloco A – área administrativa"
+      "re": "RE-67890",
+      "nome_edificacao": "Edifício Aurora",
+      "cnpj": "98.765.432/0001-00",
+      "endereco": "Av. Central, 200, Bairro Centro, Cidade Sol, Estado",
+      "status": "concluida",
+      "data_prazo": "2025-08-15",
+      "protocolo": "PROTO-24680",
+      "data_de_cadastro": "2025-02-10",
+      "nome_fantasia": "Engenharia Total",
+      "coordenadas": { "lat": -3.1212, "lng": -60.0222 },
+      "responsavel": {
+        "cpf": "321.654.987-00",
+        "nome": "Maria Oliveira",
+        "telefone": "(92) 99876-5432",
+        "comprovante_de_identidade": "https://exemplo.com/comprovantes/maria_oliveira.jpg"
+      },
+      "dados_responsaveis_tecnicos": [
+        {
+          "cpf": "222.333.444-55",
+          "nome": "Luiz Mendes",
+          "registro_profissional": "CREA-777777",
+          "especialidade": "Elétrica"
+        }
+      ],
+      "documento_sci_projetos": [],
+      "documento_sci_requerimentos": [],
+      "documento_sci_diversos": [],
+      "blocos_relacionados": [
+        {
+          "id_bloco": "BLOCO-1",
+          "descricao": "Torre Norte",
+          "cnpj_bloco_secuncadario": "98.765.432/0001-01"
+        }
+      ]
     },
     {
-      "id_bloco": "BLOCO-B",
-      "descricao": "Bloco B – área produtiva"
+      "re": "RE-24680",
+      "nome_edificacao": "Residencial Palmeira",
+      "cnpj": "23.456.789/0001-88",
+      "endereco": "Rua das Acácias, 345, Bairro Parque, Cidade Verde, Estado",
+      "status": "pendente",
+      "data_prazo": "2025-09-01",
+      "protocolo": "PROTO-13579",
+      "data_de_cadastro": "2025-03-05",
+      "nome_fantasia": "Construtora Palmeira",
+      "coordenadas": { "lat": -3.1350, "lng": -60.0333 },
+      "responsavel": {
+        "cpf": "555.666.777-88",
+        "nome": "Fernando Costa",
+        "telefone": "(92) 98765-4321",
+        "comprovante_de_identidade": "https://exemplo.com/comprovantes/fernando_costa.jpg"
+      },
+      "dados_responsaveis_tecnicos": [],
+      "documento_sci_projetos": [],
+      "documento_sci_requerimentos": [],
+      "documento_sci_diversos": [],
+      "blocos_relacionados": []
+    },
+    {
+      "re": "RE-11223",
+      "nome_edificacao": "Centro Comercial Vitória",
+      "cnpj": "77.888.999/0001-55",
+      "endereco": "Av. dos Comerciantes, 10, Bairro Negócios, Cidade Vitória, Estado",
+      "status": "em_andamento",
+      "data_prazo": "2025-10-10",
+      "protocolo": "PROTO-11223",
+      "data_de_cadastro": "2025-04-01",
+      "nome_fantasia": "Grupo Vitória",
+      "coordenadas": { "lat": -3.1456, "lng": -60.0456 },
+      "responsavel": {
+        "cpf": "999.888.777-66",
+        "nome": "Patrícia Lima",
+        "telefone": "(92) 93456-7890",
+        "comprovante_de_identidade": "https://exemplo.com/comprovantes/patricia_lima.jpg"
+      },
+      "dados_responsaveis_tecnicos": [
+        {
+          "cpf": "888.777.666-55",
+          "nome": "Bruno Alves",
+          "registro_profissional": "CREA-888888",
+          "especialidade": "Segurança do Trabalho"
+        }
+      ],
+      "documento_sci_projetos": [],
+      "documento_sci_requerimentos": [],
+      "documento_sci_diversos": [],
+      "blocos_relacionados": [
+        {
+          "id_bloco": "BLOCO-V1",
+          "descricao": "Bloco V1 – salas comerciais",
+          "cnpj_bloco_secuncadario": "77.888.999/0001-56"
+        },
+        {
+          "id_bloco": "BLOCO-V2",
+          "descricao": "Bloco V2 – estacionamento",
+          "cnpj_bloco_secuncadario": "77.888.999/0001-57"
+        }
+      ]
     }
   ]
 }
-  ]
-}
-
-
