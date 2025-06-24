@@ -198,15 +198,45 @@
       "blocos_relacionados": [
         {
           "id_bloco": "1",
-           "nome_bloco": "BLOCO-V1",
+          "nome_bloco": "BLOCO-V1",
           "descricao": "Bloco V1 – salas comerciais",
           "cnpj_bloco_secundario": "77.888.999/0001-56"
         },
         {
           "id_bloco": "2",
-           "nome_bloco": "BLOCO-V2",
+          "nome_bloco": "BLOCO-V2",
           "descricao": "Bloco V2 – estacionamento",
           "cnpj_bloco_secundario": "77.888.999/0001-57"
+        }
+      ]
+    },
+    {
+      "re": "RE-2333344",
+      "nome_edificacao": "Residencial TESTE",
+      "cnpj": "23.456.789/0001-11",
+      "endereco": "Rua das Acácias, 345, Bairro Parque, Cidade Verde, Estado",
+      "status": "pendente",
+      "data_prazo": "2025-09-01",
+      "protocolo": "PROTO-13579",
+      "data_de_cadastro": "2025-03-05",
+      "nome_fantasia": "Construtora Palmeira",
+      "coordenadas": { "lat": -3.1350, "lng": -60.0333 },
+      "responsavel": {
+        "cpf": "555.666.777-88",
+        "nome": "Fernando Costa",
+        "telefone": "(92) 98765-4321",
+        "comprovante_de_identidade": "https://exemplo.com/comprovantes/fernando_costa.jpg"
+      },
+      "dados_responsaveis_tecnicos": [],
+      "documento_sci_projetos": [],
+      "documento_sci_requerimentos": [],
+      "documento_sci_diversos": [],
+      "blocos_relacionados": [
+        {
+          "id_bloco": "1",
+          "nome_bloco": "BLOCO-V1",
+          "descricao": "Bloco V1 – salas TESTE",
+          "cnpj_bloco_secundario": "77.888.999/0001-22"
         }
       ]
     }
