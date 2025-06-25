@@ -96,6 +96,61 @@
           "id_bloco": "9",
           "descricao": "Bloco I – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-23"
+        },
+        {
+          "id_bloco": "10",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-12"
+        },
+        {
+          "id_bloco": "11",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-25"
+        },
+        {
+          "id_bloco": "12",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-32"
+        },
+        {
+          "id_bloco": "13",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-42"
+        },
+        {
+          "id_bloco": "14",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-33"
+        },
+        {
+          "id_bloco": "15",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-23"
+        },
+        {
+          "id_bloco": "16",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-23"
+        },
+        {
+          "id_bloco": "17",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-23"
+        },
+        {
+          "id_bloco": "18",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-23"
+        },
+        {
+          "id_bloco": "19",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-23"
+        },
+        {
+          "id_bloco": "20",
+          "descricao": "Bloco I – área produtiva",
+          "cnpj_bloco_secundario": "12.345.678/0001-23"
         }
       ]
     },
