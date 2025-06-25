@@ -54,37 +54,31 @@
       "blocos_relacionados": [
         {
           "id_bloco": "1",
-          "nome_bloco": "BLOCO-A",
           "descricao": "Bloco A – área administrativa",
           "cnpj_bloco_secundario": "12.345.678/0001-91"
         },
         {
           "id_bloco": "2",
-           "nome_bloco": "BLOCO-B",
           "descricao": "Bloco B – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-91"
         },
         {
           "id_bloco": "3",
-          "nome_bloco": "BLOCO-C",
           "descricao": "Bloco C – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-92"
         },
         {
           "id_bloco": "4",
-          "nome_bloco": "BLOCO-D",
           "descricao": "Bloco D – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-22"
         },
         {
           "id_bloco": "5",
-           "nome_bloco": "BLOCO-E",
           "descricao": "Bloco E – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-33"
         },
         {
           "id_bloco": "6",
-           "nome_bloco": "BLOCO-F",
           "descricao": "Bloco F – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-44"
         },
@@ -95,13 +89,11 @@
         },
         {
           "id_bloco": "8",
-           "nome_bloco": "BLOCO-H",
           "descricao": "Bloco H – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-32"
         },
         {
           "id_bloco": "9",
-           "nome_bloco": "BLOCO-I",
           "descricao": "Bloco I – área produtiva",
           "cnpj_bloco_secundario": "12.345.678/0001-23"
         }
@@ -138,7 +130,6 @@
       "blocos_relacionados": [
         {
           "id_bloco": "1",
-           "nome_bloco": "BLOCO-1",
           "descricao": "Torre Norte",
           "cnpj_bloco_secundario": "98.765.432/0001-01"
         }
@@ -198,13 +189,11 @@
       "blocos_relacionados": [
         {
           "id_bloco": "1",
-          "nome_bloco": "BLOCO-V1",
           "descricao": "Bloco V1 – salas comerciais",
           "cnpj_bloco_secundario": "77.888.999/0001-56"
         },
         {
           "id_bloco": "2",
-          "nome_bloco": "BLOCO-V2",
           "descricao": "Bloco V2 – estacionamento",
           "cnpj_bloco_secundario": "77.888.999/0001-57"
         }
@@ -234,7 +223,6 @@
       "blocos_relacionados": [
         {
           "id_bloco": "1",
-          "nome_bloco": "BLOCO-V1",
           "descricao": "Bloco V1 – salas TESTE",
           "cnpj_bloco_secundario": "77.888.999/0001-22"
         }
