@@ -1,0 +1,1120 @@
+{
+    "edificacoes": [
+        {
+            "id": 2433,
+            "codgEdificacao": "RE8343000011A",
+            "nomeEdificacao": "reinoldo",
+            "nomeFantasia": "reinoldo",
+            "dataCadastro": "2020-06-02 13:59:33",
+            "terreno": {
+                "id": 2507,
+                "endereco": {
+                    "id": 6764,
+                    "complemento": null,
+                    "referencia": "prefeitura",
+                    "numeroEndereco": null,
+                    "latitude": "-26.410207223337",
+                    "longitude": "-49.076323629053",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 3725,
+                        "nomeLogradouro": "Rua marechal castelo branco, 4335, centro, Schroeder -SC.",
+                        "cep": "89275000",
+                        "bairro": {
+                            "id": 28215,
+                            "nomeBairro": "CENTRO NORTE",
+                            "cidade": {
+                                "id": 10478,
+                                "nomeCidade": "SCHROEDER",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 76712,
+            "codgEdificacao": "RE8163001507A",
+            "nomeEdificacao": "Raphael Passos",
+            "nomeFantasia": "Restaurante Keamuka",
+            "dataCadastro": "2021-08-16 14:33:45",
+            "terreno": {
+                "id": 76218,
+                "endereco": {
+                    "id": 156226,
+                    "complemento": "",
+                    "referencia": "Ao lado do vila dos corais",
+                    "numeroEndereco": "26",
+                    "latitude": "-27.0968088",
+                    "longitude": "-48.6136363",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 48667,
+                        "nomeLogradouro": "Orla do centro",
+                        "cep": "88220000",
+                        "bairro": {
+                            "id": 24085,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10347,
+                                "nomeCidade": "ITAPEMA",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 81390,
+            "codgEdificacao": "RE8057000913A",
+            "nomeEdificacao": "PIZZARIA E FORNERIA SUPREMA LTDA (EXCLUÍDA-81390)",
+            "nomeFantasia": "SUPREMA PIZZA",
+            "dataCadastro": "2021-08-30 09:19:25",
+            "terreno": {
+                "id": 80861,
+                "endereco": {
+                    "id": 13230,
+                    "complemento": "Casa",
+                    "referencia": "Antiga A Bruxinha",
+                    "numeroEndereco": "712",
+                    "latitude": "-26.770911809787",
+                    "longitude": "-51.013765830654",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 152501,
+                        "nomeLogradouro": "AV BARAO DO RIO BRANCO - DE 366 A 794 - LADO PAR",
+                        "cep": "89500094",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 86485,
+            "codgEdificacao": "RE8057000965A",
+            "nomeEdificacao": "ADRIANA",
+            "nomeFantasia": "NICOLETTI",
+            "dataCadastro": "2021-09-13 18:26:13",
+            "terreno": {
+                "id": 85884,
+                "endereco": {
+                    "id": 177055,
+                    "complemento": "centro",
+                    "referencia": null,
+                    "numeroEndereco": "351",
+                    "latitude": "-26.777299448887",
+                    "longitude": "-51.015602931213",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 53022,
+                        "nomeLogradouro": "351, centro",
+                        "cep": "89500076",
+                        "bairro": {
+                            "id": 21142,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 88835,
+            "codgEdificacao": "RE8233002206A",
+            "nomeEdificacao": "Pousada Esmeralda",
+            "nomeFantasia": "Pousada Esmeralda",
+            "dataCadastro": "2021-09-20 16:45:57",
+            "terreno": {
+                "id": 88217,
+                "endereco": {
+                    "id": 182103,
+                    "complemento": "",
+                    "referencia": "",
+                    "numeroEndereco": "33",
+                    "latitude": "-27.864892663817",
+                    "longitude": "-48.602161669312",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 197143,
+                        "nomeLogradouro": "Rua Quatro centro e noventa cinco",
+                        "cep": "88139259",
+                        "bairro": {
+                            "id": 26079,
+                            "nomeBairro": "PRAIA DA PINHEIRA",
+                            "cidade": {
+                                "id": 10401,
+                                "nomeCidade": "PALHOÇA",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 138872,
+            "codgEdificacao": "RE5599000091A",
+            "nomeEdificacao": "Centro Municipal de Educação Infantil Arvoredo",
+            "nomeFantasia": "Centro Municipal de Educação Infantil Arvoredo",
+            "dataCadastro": "2022-02-16 08:24:01",
+            "terreno": {
+                "id": 137742,
+                "endereco": {
+                    "id": 296825,
+                    "complemento": null,
+                    "referencia": "próximo a escola municipal",
+                    "numeroEndereco": null,
+                    "latitude": "-27.076665589181",
+                    "longitude": "-52.45681034262",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 52979,
+                        "nomeLogradouro": "centro",
+                        "cep": "89778000",
+                        "bairro": {
+                            "id": 20417,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10240,
+                                "nomeCidade": "ARVOREDO",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 139175,
+            "codgEdificacao": "RE5599000092A",
+            "nomeEdificacao": "Centro municipal de educação infantil Arvoredo",
+            "nomeFantasia": "Centro municipal de educação infantil Arvoredo",
+            "dataCadastro": "2022-02-16 16:09:08",
+            "terreno": {
+                "id": 138039,
+                "endereco": {
+                    "id": 298181,
+                    "complemento": null,
+                    "referencia": "proximo a escola municipal",
+                    "numeroEndereco": null,
+                    "latitude": "-27.076720167157",
+                    "longitude": "-52.456805281933",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 52979,
+                        "nomeLogradouro": "centro",
+                        "cep": "89778000",
+                        "bairro": {
+                            "id": 20417,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10240,
+                                "nomeCidade": "ARVOREDO",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 139372,
+            "codgEdificacao": "RE5599000093A",
+            "nomeEdificacao": "Idinaura Carla Viecelli",
+            "nomeFantasia": "Idi cabeleireira beleza e estilo",
+            "dataCadastro": "2022-02-17 09:21:24",
+            "terreno": {
+                "id": 138233,
+                "endereco": {
+                    "id": 176784,
+                    "complemento": "centro",
+                    "referencia": "",
+                    "numeroEndereco": "11",
+                    "latitude": "-27.073869109841",
+                    "longitude": "-52.459768017992",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 52979,
+                        "nomeLogradouro": "centro",
+                        "cep": "89778000",
+                        "bairro": {
+                            "id": 20417,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10240,
+                                "nomeCidade": "ARVOREDO",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 141980,
+            "codgEdificacao": "RE5599000095A",
+            "nomeEdificacao": "ALBINO DEMARTINI",
+            "nomeFantasia": "BARBEARIA ZANETTE",
+            "dataCadastro": "2022-02-24 14:43:52",
+            "terreno": {
+                "id": 140795,
+                "endereco": {
+                    "id": 308145,
+                    "complemento": "Rua das Margaridas",
+                    "referencia": null,
+                    "numeroEndereco": "171",
+                    "latitude": null,
+                    "longitude": null,
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 52979,
+                        "nomeLogradouro": "centro",
+                        "cep": "89778000",
+                        "bairro": {
+                            "id": 20417,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10240,
+                                "nomeCidade": "ARVOREDO",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 148400,
+            "codgEdificacao": "RE8291002568A",
+            "nomeEdificacao": "TERESINHA SCHUBERT GUTJAHR",
+            "nomeFantasia": "TERESINHA SCHUBERT GUTJAHR",
+            "dataCadastro": "2022-03-16 17:26:02",
+            "terreno": {
+                "id": 147115,
+                "endereco": {
+                    "id": 329759,
+                    "complemento": null,
+                    "referencia": "",
+                    "numeroEndereco": "28",
+                    "latitude": "-27.2207196",
+                    "longitude": "-49.6332745",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 89537,
+                        "nomeLogradouro": "travessa centro social urbano",
+                        "cep": "89160000",
+                        "bairro": {
+                            "id": 27002,
+                            "nomeBairro": "BOA VISTA",
+                            "cidade": {
+                                "id": 10436,
+                                "nomeCidade": "RIO DO SUL",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 157751,
+            "codgEdificacao": "RE8057001573A",
+            "nomeEdificacao": "PREFEITURA MUNICIPAL DE CAÇADOR",
+            "nomeFantasia": "PREFEITURA MUNICIPAL DE CAÇADOR",
+            "dataCadastro": "2022-04-08 17:47:26",
+            "terreno": {
+                "id": 156348,
+                "endereco": {
+                    "id": 138288,
+                    "complemento": "Prefeitura",
+                    "referencia": "PREFEITURA DE CAÇADOR",
+                    "numeroEndereco": "195",
+                    "latitude": "-26.773805642294",
+                    "longitude": "-51.013053553442",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 97084,
+                        "nomeLogradouro": "AVENIDA SANTA CATARINA",
+                        "cep": "89500124",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 159802,
+            "codgEdificacao": "RE8057001587A",
+            "nomeEdificacao": "ARTHUR LUNDGREN TECIDOS S A CASAS PERNAMBUCANAS",
+            "nomeFantasia": "PERNAMBUCANAS",
+            "dataCadastro": "2022-04-18 16:44:49",
+            "terreno": {
+                "id": 158365,
+                "endereco": {
+                    "id": 359679,
+                    "complemento": "",
+                    "referencia": "",
+                    "numeroEndereco": "484",
+                    "latitude": null,
+                    "longitude": null,
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 95946,
+                        "nomeLogradouro": "AVENIDA BARÃO DO RIO BRANCO",
+                        "cep": "89500000",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 160613,
+            "codgEdificacao": "RE8057001598A",
+            "nomeEdificacao": "ALISON JULIANO LAURENTINO LTDA (EXCLUÍDA-160613)",
+            "nomeFantasia": "ALISON JULIANO LAURENTINO LTDA",
+            "dataCadastro": "2022-04-20 10:44:19",
+            "terreno": {
+                "id": 159161,
+                "endereco": {
+                    "id": 367606,
+                    "complemento": "CASA:SALA",
+                    "referencia": "",
+                    "numeroEndereco": "69",
+                    "latitude": null,
+                    "longitude": null,
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 97527,
+                        "nomeLogradouro": "RUA SIEGFRIED HELMUTH LUHRS",
+                        "cep": "89500052",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 161366,
+            "codgEdificacao": "RE8057001609A",
+            "nomeEdificacao": "LUCY ROCHA REBELLO CURY",
+            "nomeFantasia": "LUCY ROCHA",
+            "dataCadastro": "2022-04-22 15:18:07",
+            "terreno": {
+                "id": 159907,
+                "endereco": {
+                    "id": 368135,
+                    "complemento": "LOJA 01",
+                    "referencia": null,
+                    "numeroEndereco": "349",
+                    "latitude": null,
+                    "longitude": null,
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 97634,
+                        "nomeLogradouro": "RUA CARLOS SPERANÇA",
+                        "cep": "89500088",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 161586,
+            "codgEdificacao": "RE8057001611A",
+            "nomeEdificacao": "BIANCA FERRER UBER",
+            "nomeFantasia": "BIANCA FERRER UBER",
+            "dataCadastro": "2022-04-25 08:10:29",
+            "terreno": {
+                "id": 160125,
+                "endereco": {
+                    "id": 370574,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "279",
+                    "latitude": "-26.7758215",
+                    "longitude": "-51.0125452",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 97084,
+                        "nomeLogradouro": "AVENIDA SANTA CATARINA",
+                        "cep": "89500124",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 164730,
+            "codgEdificacao": "RE8057001637A",
+            "nomeEdificacao": "VALDOMIRO DE OLIVEIRA",
+            "nomeFantasia": "VALDOMIRO DE OLIVEIRA",
+            "dataCadastro": "2022-05-03 11:25:29",
+            "terreno": {
+                "id": 163242,
+                "endereco": {
+                    "id": 380102,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "143",
+                    "latitude": "-26.7789185",
+                    "longitude": "-51.0057042",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 100058,
+                        "nomeLogradouro": "RUA 13 DE MAIO",
+                        "cep": "89500208",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 167201,
+            "codgEdificacao": "RE8057001647A",
+            "nomeEdificacao": "HELSON CEOLLA",
+            "nomeFantasia": "REVENDA DE AUTOMÓVEIS",
+            "dataCadastro": "2022-05-10 10:59:03",
+            "terreno": {
+                "id": 165680,
+                "endereco": {
+                    "id": 387378,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "90",
+                    "latitude": "-26.7796766",
+                    "longitude": "-51.0055924",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 100058,
+                        "nomeLogradouro": "RUA 13 DE MAIO",
+                        "cep": "89500208",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 167583,
+            "codgEdificacao": "RE8057001650A",
+            "nomeEdificacao": "Paulo Cesar Pivotto",
+            "nomeFantasia": "Pivo Centro Automotivo",
+            "dataCadastro": "2022-05-10 16:58:04",
+            "terreno": {
+                "id": 166060,
+                "endereco": {
+                    "id": 385601,
+                    "complemento": "BLOCO",
+                    "referencia": "",
+                    "numeroEndereco": "416",
+                    "latitude": "-26.7757389",
+                    "longitude": "-51.0056862",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 101180,
+                        "nomeLogradouro": "R MARIA DEOMAR COSTA NEVES",
+                        "cep": "89500178",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 168516,
+            "codgEdificacao": "RE8057001656A",
+            "nomeEdificacao": "CARMEN SCHAFAUSER SOCIEDADE INDIVIDUAL DE ADVOGACIA",
+            "nomeFantasia": "CARMEN SCHAFAUSER SOCIEDADE INDIVIDUAL DE ADVOGACIA",
+            "dataCadastro": "2022-05-13 10:28:07",
+            "terreno": {
+                "id": 166987,
+                "endereco": {
+                    "id": 391378,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "212",
+                    "latitude": "-26.7756392",
+                    "longitude": "-51.0077227",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96704,
+                        "nomeLogradouro": "RUA MARIA DEOMAR DA COSTA NEVES",
+                        "cep": "89500178",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 168865,
+            "codgEdificacao": "RE8057001657A",
+            "nomeEdificacao": "LANCHETERIA CITY LTDA",
+            "nomeFantasia": "LANCHETERIA CITY LTDA",
+            "dataCadastro": "2022-05-16 10:00:15",
+            "terreno": {
+                "id": 167335,
+                "endereco": {
+                    "id": 392496,
+                    "complemento": "",
+                    "referencia": "",
+                    "numeroEndereco": "847",
+                    "latitude": "-26.7804113",
+                    "longitude": "-51.0045146",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 95940,
+                        "nomeLogradouro": "R SENADOR SALGADO FILHO",
+                        "cep": "89500205",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 170831,
+            "codgEdificacao": "RE8075000762A",
+            "nomeEdificacao": "Claudia Ferreira da Silva",
+            "nomeFantasia": "Claudia Ferreira da Silva",
+            "dataCadastro": "2022-05-19 16:30:15",
+            "terreno": {
+                "id": 168970,
+                "endereco": {
+                    "id": 397879,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "137",
+                    "latitude": "-27.343377592359",
+                    "longitude": "-51.612133906404",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 103695,
+                        "nomeLogradouro": "Rua Carmelo Zocolli, 137, centro, Capinzal SC",
+                        "cep": "89665000",
+                        "bairro": {
+                            "id": 21613,
+                            "nomeBairro": "CENTRO",
+                            "cidade": {
+                                "id": 10280,
+                                "nomeCidade": "CAPINZAL",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 171263,
+            "codgEdificacao": "RE8057001665A",
+            "nomeEdificacao": "VANILDO JOSE STEIN",
+            "nomeFantasia": "VANILDO JOSE STEIN",
+            "dataCadastro": "2022-05-20 14:32:41",
+            "terreno": {
+                "id": 169390,
+                "endereco": {
+                    "id": 399149,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "115",
+                    "latitude": "-26.7775451",
+                    "longitude": "-51.0144857",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 95957,
+                        "nomeLogradouro": "RUA CAMPOS NOVOS",
+                        "cep": "89500073",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 172956,
+            "codgEdificacao": "RE8057001684A",
+            "nomeEdificacao": "ANTONIO MARCELO MACULAN",
+            "nomeFantasia": "ANTONIO MARCELO MACULAN",
+            "dataCadastro": "2022-05-25 15:48:41",
+            "terreno": {
+                "id": 171057,
+                "endereco": {
+                    "id": 404231,
+                    "complemento": "Sala 02",
+                    "referencia": null,
+                    "numeroEndereco": "277",
+                    "latitude": "-26.7760813",
+                    "longitude": "-51.0138628",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 97634,
+                        "nomeLogradouro": "RUA CARLOS SPERANÇA",
+                        "cep": "89500088",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 173259,
+            "codgEdificacao": "RE8057001686A",
+            "nomeEdificacao": "EC COMERCIO DE AUTOMOVEIS LTDA (EXCLUÍDA-173259)",
+            "nomeFantasia": "EC COMERCIO DE AUTOMOVEIS LTDA",
+            "dataCadastro": "2022-05-26 11:10:17",
+            "terreno": {
+                "id": 171355,
+                "endereco": {
+                    "id": 405138,
+                    "complemento": "SALA 01",
+                    "referencia": "",
+                    "numeroEndereco": "473",
+                    "latitude": "-26.779511",
+                    "longitude": "-51.0162992",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 99918,
+                        "nomeLogradouro": "RUA NEREU RAMOS",
+                        "cep": "89500076",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 177265,
+            "codgEdificacao": "RE8057001721A",
+            "nomeEdificacao": "JOSÉ CORNÉLIO FRANÇA",
+            "nomeFantasia": "JOSÉ CORNÉLIO FRANÇA",
+            "dataCadastro": "2022-06-07 13:18:15",
+            "terreno": {
+                "id": 175307,
+                "endereco": {
+                    "id": 416831,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "149",
+                    "latitude": "-26.7744582",
+                    "longitude": "-51.0135363",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96241,
+                        "nomeLogradouro": "AVENIDA 7 DE SETEMBRO",
+                        "cep": "89500133",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 177315,
+            "codgEdificacao": "RE8057001722A",
+            "nomeEdificacao": "LISETE REGINA BATISTA COELHO DE SOUZA (EXCLUÍDA-177315)",
+            "nomeFantasia": "CARTORIO 7 DE SETEMBRO",
+            "dataCadastro": "2022-06-07 13:59:14",
+            "terreno": {
+                "id": 175357,
+                "endereco": {
+                    "id": 416944,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "284",
+                    "latitude": "-26.774551",
+                    "longitude": "-51.0120498",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96241,
+                        "nomeLogradouro": "AVENIDA 7 DE SETEMBRO",
+                        "cep": "89500133",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 177333,
+            "codgEdificacao": "RE8057001723A",
+            "nomeEdificacao": "LAR HOLISTICO",
+            "nomeFantasia": "LAR HOLISTICO",
+            "dataCadastro": "2022-06-07 14:13:15",
+            "terreno": {
+                "id": 175375,
+                "endereco": {
+                    "id": 417001,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "424",
+                    "latitude": "-26.7741662",
+                    "longitude": "-51.0106685",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96241,
+                        "nomeLogradouro": "AVENIDA 7 DE SETEMBRO",
+                        "cep": "89500133",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 177385,
+            "codgEdificacao": "RE8057001727A",
+            "nomeEdificacao": "PAULO PEGORARO FORESTI",
+            "nomeFantasia": "PAULO PEGORARO FORESTI",
+            "dataCadastro": "2022-06-07 14:44:57",
+            "terreno": {
+                "id": 175427,
+                "endereco": {
+                    "id": 417130,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "500",
+                    "latitude": "-26.7739422",
+                    "longitude": "-51.0101214",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96241,
+                        "nomeLogradouro": "AVENIDA 7 DE SETEMBRO",
+                        "cep": "89500133",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 177401,
+            "codgEdificacao": "RE8057001728A",
+            "nomeEdificacao": "EVANDRO VICENTE LUIZ",
+            "nomeFantasia": "ESCRITORIO DE ADVOCACIA",
+            "dataCadastro": "2022-06-07 14:54:58",
+            "terreno": {
+                "id": 175442,
+                "endereco": {
+                    "id": 417180,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": "582",
+                    "latitude": "-26.773883",
+                    "longitude": "-51.0097775",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96241,
+                        "nomeLogradouro": "AVENIDA 7 DE SETEMBRO",
+                        "cep": "89500133",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 177484,
+            "codgEdificacao": "RE8057001736A",
+            "nomeEdificacao": "EDNÉIA APARECIDA BRITO DA SILVA",
+            "nomeFantasia": "EDNÉIA APARECIDA BRITO DA SILVA",
+            "dataCadastro": "2022-06-07 16:03:12",
+            "terreno": {
+                "id": 175525,
+                "endereco": {
+                    "id": 417429,
+                    "complemento": null,
+                    "referencia": null,
+                    "numeroEndereco": null,
+                    "latitude": "-26.774028181144",
+                    "longitude": "-51.011234512814",
+                    "codigoEndereco": null,
+                    "logradouro": {
+                        "id": 96241,
+                        "nomeLogradouro": "AVENIDA 7 DE SETEMBRO",
+                        "cep": "89500133",
+                        "bairro": {
+                            "id": 33584,
+                            "nomeBairro": "centro",
+                            "cidade": {
+                                "id": 10269,
+                                "nomeCidade": "CAÇADOR",
+                                "estado": {
+                                    "id": 25,
+                                    "nomeEstado": "SANTA CATARINA",
+                                    "uf": "SC"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "meta": {
+        "current_page": 1,
+        "last_page": 6,
+        "per_page": 30,
+        "total": 158
+    }
+}
